@@ -1,0 +1,24 @@
+#main-content{
+    background-color: green;
+    width:60%;
+    border-top-right-radius:6px;
+    border-top-left-radius:6px;
+}
+button{
+    width:25%;
+    margin-bottom:10px;
+}
+p{
+    font-weight:bold;
+}
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#animated{
+    color:aqua;
+    background-color: blue;
+    font-weight: bolder;
+}
+.date{
+    margin-left: 250px;
+}
